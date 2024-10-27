@@ -48,8 +48,8 @@ pip3 install -r requirements.txt
 🔗 Useful links
 ----------
 
-([Dataset used in notebooks](https://huggingface.co/datasets/neuralwork/arxiver))
-([Vector similarity search](https://weaviate.io/developers/weaviate/search/similarity))
-([Keyword search](https://weaviate.io/developers/weaviate/search/bm25))
-([Hybrid search](https://weaviate.io/developers/weaviate/search/hybrid))
-([Reranking](https://weaviate.io/developers/weaviate/search/rerank))
+- [Dataset used in notebooks](https://huggingface.co/datasets/neuralwork/arxiver)
+- [Vector similarity search](https://weaviate.io/developers/weaviate/search/similarity)
+- [Keyword search](https://weaviate.io/developers/weaviate/search/bm25)
+- [Hybrid search](https://weaviate.io/developers/weaviate/search/hybrid)
+- [Reranking](https://weaviate.io/developers/weaviate/search/rerank)
