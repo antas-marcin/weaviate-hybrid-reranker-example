@@ -41,10 +41,15 @@ pip3 install -r requirements.txt
 📖 How to use notebooks
 ----------
 
+Prior running the examples please run import notebook:
+
 1. Import data: ([0-import.ipynb](./notebooks/0-import.ipynb))
-2. Reranker example: ([1-reranker.ipynb](./notebooks/1-reranker.ipynb))
-3. Hybrid example: ([2-hybrid.ipynb](./notebooks/2-hybrid.ipynb))
-4. RAG example: ([3-rag.ipynb](./notebooks/3-rag.ipynb))
+
+Examples:
+
+1. Reranker example: ([1-reranker.ipynb](./notebooks/1-reranker.ipynb))
+2. Hybrid example: ([2-hybrid.ipynb](./notebooks/2-hybrid.ipynb))
+3. RAG example: ([3-rag.ipynb](./notebooks/3-rag.ipynb))
 
 🔗 Useful links
 ----------
