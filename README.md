@@ -44,6 +44,7 @@ pip3 install -r requirements.txt
 1. Import data: ([0-import.ipynb](./notebooks/0-import.ipynb))
 2. Reranker example: ([1-reranker.ipynb](./notebooks/1-reranker.ipynb))
 3. Hybrid example: ([2-hybrid.ipynb](./notebooks/2-hybrid.ipynb))
+4. RAG example: ([3-rag.ipynb](./notebooks/3-rag.ipynb))
 
 🔗 Useful links
 ----------
@@ -53,3 +54,4 @@ pip3 install -r requirements.txt
 - [Keyword search](https://weaviate.io/developers/weaviate/search/bm25)
 - [Hybrid search](https://weaviate.io/developers/weaviate/search/hybrid)
 - [Reranking](https://weaviate.io/developers/weaviate/search/rerank)
+- [Generative AI / RAG](https://weaviate.io/developers/weaviate/search/generative)
