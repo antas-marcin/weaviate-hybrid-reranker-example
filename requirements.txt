@@ -1,4 +1,4 @@
-weaviate-client==4.10.2
+weaviate-client==4.11.1
 loguru==0.7.2
 datasets==3.0.2
 uuid==1.30
