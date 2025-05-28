@@ -1,4 +1,5 @@
-weaviate-client==4.11.1
+weaviate-client==4.14.4
 loguru==0.7.2
 datasets==3.0.2
 uuid==1.30
+ipykernel==6.29.5
