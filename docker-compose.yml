@@ -10,7 +10,7 @@ services:
     - http
     - --write-timeout=600s
     - --read-timeout=600s
-    image: cr.weaviate.io/semitechnologies/weaviate:1.31.0
+    image: cr.weaviate.io/semitechnologies/weaviate:1.32.9
     ports:
     - 8080:8080
     - 50051:50051
@@ -32,7 +32,7 @@ services:
   reranker-transformers:
     image: cr.weaviate.io/semitechnologies/reranker-transformers:baai-bge-reranker-v2-m3
   generative-ollama:
-    image: ollama/ollama:0.8.0
+    image: ollama/ollama:0.11.11
     container_name: generative_ollama
     volumes:
     - ./.docker_data/generative_ollama:/root/.ollama
